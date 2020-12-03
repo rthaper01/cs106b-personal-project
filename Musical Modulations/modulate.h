@@ -1,8 +1,3 @@
-#ifndef RELATEDKEYS_H
-#define RELATEDKEYS_H
-
-#endif // RELATEDKEYS_H
-
 #pragma once
 
 #include <iostream>
